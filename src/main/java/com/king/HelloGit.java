@@ -6,8 +6,8 @@ package com.king;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("测试开始……");
-
-        System.out.println("测试结束");
+        String str = "Welcome to China";
+        System.out.println("测试结束"+str);
     }
 
 }
