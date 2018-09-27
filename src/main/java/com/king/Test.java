@@ -7,6 +7,8 @@ import com.sun.org.apache.xpath.internal.SourceTree;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Test by feature");
+        System.out.println("Test by hot_fix start............");
+
+        System.out.println("end ..................");
     }
 }
